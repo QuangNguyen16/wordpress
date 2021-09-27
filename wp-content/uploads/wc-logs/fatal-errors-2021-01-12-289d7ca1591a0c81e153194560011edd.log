@@ -1,0 +1,90 @@
+2021-01-12T09:16:35+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 234
+
+2021-01-12T09:17:35+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 234
+
+2021-01-12T09:36:44+00:00 CRITICAL Uncaught Error: Call to a member function wc_get_price_html() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 49
+
+2021-01-12T09:36:54+00:00 CRITICAL Uncaught Error: Call to a member function wc_get_price_html() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 49
+
+2021-01-12T09:37:23+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 49
+
+2021-01-12T09:37:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_price_html() in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 49
+
+2021-01-12T09:38:47+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 49
+
+2021-01-12T09:41:21+00:00 CRITICAL Uncaught Error: Call to a member function get_product_price() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 49
+
+2021-01-12T09:42:30+00:00 CRITICAL Uncaught Error: Call to a member function get_product_price() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 49
+
+2021-01-12T09:44:46+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 267
+
+2021-01-12T09:46:26+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 267
+
+2021-01-12T09:47:53+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 110
+
+2021-01-12T09:48:46+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 110
+
+2021-01-12T09:48:55+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 108
+
+2021-01-12T09:59:38+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:72
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 72
+
+2021-01-12T09:59:53+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php:72
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 72
+
+2021-01-12T10:44:43+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 67
+
+2021-01-12T10:45:05+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\single-product.php on line 65
+

@@ -1,0 +1,4 @@
+2021-01-01T09:14:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\shop\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-01-01T14:32:10+00:00 CRITICAL Cannot use [] for reading in C:\xampp\htdocs\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1520
+

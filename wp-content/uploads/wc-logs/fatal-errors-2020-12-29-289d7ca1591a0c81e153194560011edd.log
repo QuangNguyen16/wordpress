@@ -1,0 +1,8 @@
+2020-12-29T00:35:56+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::esc_sql() in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\login-page.php:12
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\login-page.php on line 12
+

@@ -1,0 +1,26 @@
+2021-01-16T14:50:32+00:00 CRITICAL Uncaught Error: Call to a member function set() on int in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\functions.php:162
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php(182): all_products_query(5)
+#1 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\functions.php on line 162
+
+2021-01-16T14:53:07+00:00 CRITICAL Uncaught Error: Call to a member function set() on int in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\functions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php(182): all_products_query(5)
+#1 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\functions.php on line 161
+
+2021-01-16T14:53:43+00:00 CRITICAL Uncaught Error: Call to undefined function all_products_query() in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php:182
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php on line 182
+

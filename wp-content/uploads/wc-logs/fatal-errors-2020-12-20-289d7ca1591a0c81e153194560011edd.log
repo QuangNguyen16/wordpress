@@ -1,0 +1,72 @@
+2020-12-20T07:26:10+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php:92
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php on line 92
+
+2020-12-20T07:42:47+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php:109
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php on line 109
+
+2020-12-20T07:42:59+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php:109
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php on line 109
+
+2020-12-20T07:43:03+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php:109
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php on line 109
+
+2020-12-20T07:43:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php:109
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php on line 109
+
+2020-12-20T08:48:22+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\content\item_product.php:15
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\shop\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\shop\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php(154): get_template_part('content/item_pr...')
+#4 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\content\item_product.php on line 15
+
+2020-12-20T08:48:57+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\content\item_product.php:15
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\shop\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\shop\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php(154): get_template_part('content/item_pr...')
+#4 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\content\item_product.php on line 15
+
+2020-12-20T10:12:06+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php:162
+Stack trace:
+#0 C:\xampp\htdocs\shop\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop\wp-content\themes\shoptheme\index.php on line 162
+
